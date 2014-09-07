@@ -1,0 +1,7 @@
+11CS30037.py  ff		 outputee    pipetest.c  prog3	  prog6.c
+client	      input.txt		 output.txt  print	 prog3.c  runpipe.sh
+client.c      myshell		 pipe	     print.c	 prog4	  server
+debug.txt     myshell_backup.c	 pipe2	     prog1	 prog4.c  server.c
+dup.c	      myshell.c		 pipe2.c     prog1.c	 prog5	  test
+exectest      mysshell_backup.c  pipe2.txt   prog2	 prog5.c  test.c
+exectest.c    output		 pipetest    prog2.c	 prog6

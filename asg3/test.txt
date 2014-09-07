@@ -1,0 +1,10 @@
+11CS30037.py  input.txt		 pinput.txt  prog1    prog5.c	      test
+client	      lstest.txt	 pipe	     prog1.c  prog6	      test.c
+client.c      myshell		 pipe2	     prog2    prog6.c	      test.txt
+count.txt     myshell_backup.c	 pipe2.c     prog2.c  proginput.txt   xx
+debug.txt     myshell.c		 pipe2.txt   prog3    progoutput.txt
+dup.c	      mysshell_backup.c  pipetest    prog3.c  runpipe.sh
+exectest      output2.txt	 pipetest.c  prog4    server
+exectest.c    outputee		 print	     prog4.c  server.c
+ff	      output.txt	 print.c     prog5    s.txt
+xt
